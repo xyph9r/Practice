@@ -1,6 +1,7 @@
 # Uncomment this to pass the first stage
 # import socket
-
+git commit --allow-empty -m 'test'
+git push origin master
 
 def main():
     # You can use print statements as follows for debugging, they'll be visible when running tests.
